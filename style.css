@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+/* 共通設定 */
+body {
+  font-family: "メイリオ", "sans-serif";
+  line-height: 2;
+  -webkit-text-size-adjust: 100%;
+}
+
+body,p,h1,h2,h3,h4{
+  margin: 0;
+  padding: 0;
+}
+
+
+/* トップページ設定 */
+.top-img{
+  background: url(img/top.JPG) cover no-repeat;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* background-position: left bottom; */
+  width: 100%;
+  height: 1108px;
+}
