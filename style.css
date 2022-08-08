@@ -206,7 +206,8 @@ footer {
 #logo .description,
 #banner .description {
   color: #fff;
-  width: 330px;
+  font-size: 90%;
+  width: 320px;
   height: 250px;
   padding: 10px;
   margin: 0 auto;
@@ -284,7 +285,7 @@ footer {
 .profile .description {
   width: 310px;
   height: 310px;
-  padding: 20px;
+  padding: 20px 5px 0px 15px;
 }
 
 .profile table{
